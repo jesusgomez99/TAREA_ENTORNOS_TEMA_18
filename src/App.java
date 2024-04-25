@@ -5,5 +5,6 @@ public class App {
         //hacemo un commit de prueba en hotfix
         //PASO 3, COMMIT CON develop
         //PASO 5, COMMIT A feature1
+        //paso 7, CREADA RAMA release
     }
 }
