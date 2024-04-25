@@ -1,4 +1,5 @@
-## Tarea 18, Entornos - Proceso
+## Tarea 18, Entornos de Desarrollo:
+#Proceso de la tarea
 
 1 - Se crea la rama master
 
